@@ -11,3 +11,8 @@ El ejercicio3 su salida es
 El ejercicio 4 su salida es
 15
 66.25
+
+El ejercicio 5 su salida es
+7
+-4.333333333333333
+0.2666666666666666

@@ -1,2 +1,13 @@
-El ejercicio1 salida 8
-El ejercicio2 204
+El ejercicio1 su salida es
+ 8
+
+El ejercicio2 su salida es
+204
+
+El ejercicio3 su salida es 
+10
+23.88888888888889
+
+El ejercicio 4 su salida es
+15
+66.25

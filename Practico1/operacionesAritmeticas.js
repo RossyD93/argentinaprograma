@@ -16,14 +16,15 @@ let resultadoFinal = suma * resta;
 console.log(resultadoFinal);
 //E. Escribe un cálculo que verifique si resultadoFinal es un número par. Almacene el resultado en una variable llamada esPar.
 
-function EsPar(resultadoFinal){
+let EsPar= resultadoFinal;
+
 
 if (resultadoFinal % 2 === 0){ 
-return "EsPar";
+    console.log("EsPar");
  }
-}
 
-console.log(EsPar); 
+
+ 
 
 console.log("Mis variables iniciales fueron:"+ " " + var1, + " " +  var2, + " "+ var3,+ " " +var4 + " " + "La espuesta a verificar si el resultado final es par es: esPar") ;
 

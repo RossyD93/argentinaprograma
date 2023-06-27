@@ -3,8 +3,8 @@ let resultado =1;
 let i= 1; // contador
 
 while(i <= n) {
-    resultado *= i;
+    resultado  *= i;
     i++;
 }
 
-console.log ("resultado");
+console.log (resultado);
